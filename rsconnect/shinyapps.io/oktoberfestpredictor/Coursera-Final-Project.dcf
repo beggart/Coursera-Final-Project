@@ -1,0 +1,13 @@
+name: Coursera-Final-Project
+title: Coursera-Final-Project
+username:
+account: oktoberfestpredictor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4558141
+bundleId: 4980670
+url: https://oktoberfestpredictor.shinyapps.io/Coursera-Final-Project/
+when: 1630332266.1054
+lastSyncTime: 1630332266.1054
+asMultiple: FALSE
+asStatic: FALSE

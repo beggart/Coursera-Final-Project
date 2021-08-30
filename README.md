@@ -1,8 +1,8 @@
 # Coursera Data Science Capstone Final Project Submission
 
-<a href="https://" target="_blank">Presentation</a>
+<a href="https://rpubs.com/beggart/Final-Project-Submission" target="_blank">Presentation</a>
   
-  <a href="https://" target="_blank">Next Word Predictor App</a>
+  <a href="https://oktoberfestpredictor.shinyapps.io/Word-Predictor/" target="_blank">Word Predictor App</a>
     
 ## Instructions
 

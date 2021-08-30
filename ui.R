@@ -15,7 +15,7 @@ shinyUI(navbarPage("Coursera's Data Science Capstone: Final Project",
                             # Sidebar
                             sidebarLayout(
                               sidebarPanel(
-                                textInput("inputString", "Enter your word or partial sentence:",value = ""),
+                                textInput("inputString", "Enter your word or partial sentence:",value = "the sun is"),
                                 submitButton('Prediction'),
                                 br(),
                                 helpText("Predict the next word/words upon your string entered above"),
