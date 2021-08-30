@@ -40,6 +40,8 @@ The Word Predictor app has a simple user interface for the prediction model. The
 
 ## References
 
+*Github* https://github.com/beggart/Coursera-Final-Project
+
 *Tidy Data* http://vita.had.co.nz/papers/tidy-data.html
 
 *Text Mining with R - A Tidy Approach* http://tidytextmining.com/index.html
